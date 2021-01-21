@@ -10,7 +10,8 @@
     - [6 - Depois de aprovada a *pull request*, é hora de incluir ela para a `next`!](#6---depois-de-aprovada-a-pull-request-é-hora-de-incluir-ela-para-a-next)
 ## Pré requisito
 
-Este guia segue o fluxo para a utilização via terminal e para isso você precisa instalar o git na sua máquina. 
+Este guia segue o fluxo para a utilização via terminal e para isso você precisa [instalar o git na sua máquina](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+Este guia segue o fluxo para a utilização via terminal e para isso você precisa   instalar o git na sua máquina. 
 
 Se você prefere utilizar uma interface gráfica, siga o [tutorial Fluxo de trabalho no repositório - interface gráfica](./docs/CONTRIBUTING_INTERFACE.md).
 
