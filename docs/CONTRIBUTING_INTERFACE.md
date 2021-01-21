@@ -20,7 +20,7 @@ Se você prefere utilizar via terminal, siga o [tutorial Fluxo de trabalho no re
 
 Ao instalar o Github desktop e fazer login no github, irá aparecer uma janela inicial com uma lista de ações. Para baixar o repositório do `pods-design`, clique no botão "Clone a Repository from the internet...".
 
-![Janela do github actions contendo as acoes iniciais](./../assets/img/github-desktop/clone.png)
+![Janela do github actions contendo as ações iniciais](./../assets/img/github-desktop/clone.png)
 
 Ao clicar, irá abrir uma janela para pesquisar o nome do repositório, e ao digitá-lo, irá aparecer para você uma lista contendo `po-ds/pods-design`.
 
@@ -28,11 +28,11 @@ Ao clicar, irá abrir uma janela para pesquisar o nome do repositório, e ao dig
 
 Depois de baixar, irá aparecer uma janela que futuramente será mostrado as alterações que vão aparecer no arquivo.
 
-![página principal contendo as mundaças nos arquivos e as ações](./../assets/img/github-desktop/clone-3.png)
+![página principal contendo as mudanças nos arquivos e as ações](./../assets/img/github-desktop/clone-3.png)
 
 ### 2 - Crie uma *branch* a partir da *branch* `next`
 
-Garanta que o seu respositório local esteja atualizado. Na parte superior, clique na aba "Repository" e em seguida em 
+Garanta que o seu repositório local esteja atualizado. Na parte superior, clique na aba "Repository" e em seguida em 
 "Pull":
 
 ![dropdown superior contendo uma lista de ações para o respositório](./../assets/img/github-desktop/pull.png)

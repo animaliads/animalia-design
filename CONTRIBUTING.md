@@ -27,7 +27,7 @@ git clone https://github.com/po-ds/pods-design.git
 
 > Certifique-se de que você se encontra no diretório do repositório. Isso pode ser feito digitando o comando: `pwd` e veja se no resultado mostra que você está no repositório.
 
-Garanta que o seu respositório local esteja atualizado da seguinte forma:
+Garanta que o seu repositório local esteja atualizado da seguinte forma:
 
 ```
 git pull 
