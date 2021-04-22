@@ -1,2 +1,3 @@
-# pods-design
-Here is the PODS's design team organization.
+# Animalia Design
+
+Repositório para versionamento dos arquivos do Sketch.
